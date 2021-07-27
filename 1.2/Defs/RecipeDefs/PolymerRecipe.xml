@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>FNFPolymerRecipe</defName>
+    <label>Make Lightweight Building Polymer</label>
+    <description>A delicate lightweight polymer designed for building mobile bases.</description>
+    <jobString>Crafting polymer.</jobString>
+    <workAmount>3000</workAmount>
+    <workSkill>Intellectual</workSkill>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <recipeUsers>
+      <li>BiofuelRefinery</li>
+    </recipeUsers>
+    <researchPrerequisite>
+      <li>FSFPolymerResearch</li>
+    </researchPrerequisite>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Plasteel</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Chemfuel</li>
+        <li>Plasteel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <FSFPolymer>50</FSFPolymer>
+    </products>
+  </RecipeDef>
+</Defs>

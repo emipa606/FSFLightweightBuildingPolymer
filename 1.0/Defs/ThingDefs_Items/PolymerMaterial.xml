@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--
+	Polymer Per Unit Price
+	Pasteel 9.00 (x5 45.00)
+	Chemfuel 2.30 (x100 230.00)
+	Work Cost 20% (20% 55.00)
+	Per Unit 50 (330.00 / 50)
+	Final Cost 6.6
+	 -->
+  <ThingDef ParentName="ResourceBase">
+    <defName>FSFPolymer</defName>
+    <label>Polymer</label>
+    <description>A delicate lightweight polymer designed for building mobile bases.</description>
+    <graphicData>
+      <color>(240,240,240)</color>
+      <texPath>Things/Item/Resource/Polymer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>6.6</MarketValue>
+      <Mass>0.05</Mass>
+      <StuffPower_Armor_Sharp>0.30</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.30</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>0.5</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>3</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>0</StuffPower_Insulation_Heat>
+      <SharpDamageMultiplier>0.70</SharpDamageMultiplier>
+      <BluntDamageMultiplier>0.40</BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stackLimit>500</stackLimit>
+    <deepCommonality>0</deepCommonality>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+      </categories>
+      <commonality>0.05</commonality>
+      <constructEffect>ConstructMetal</constructEffect>
+      <color>(240,240,240)</color>
+      <soundImpactStuff>BulletImpact_Wood</soundImpactStuff>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <statFactors>
+        <MaxHitPoints>0.35</MaxHitPoints>
+        <Beauty>1</Beauty>
+        <Flammability>0.5</Flammability>
+        <WorkToMake>1.0</WorkToMake>
+        <WorkToBuild>0.1</WorkToBuild>
+        <MeleeWeapon_CooldownMultiplier>0.8</MeleeWeapon_CooldownMultiplier>
+        <DoorOpenSpeed>1.4</DoorOpenSpeed>
+      </statFactors>
+      <smeltable>true</smeltable>
+    </stuffProps>
+  </ThingDef>
+</Defs>

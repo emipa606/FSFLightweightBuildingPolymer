@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[FSF] Lightweight Building Polymer</name>
+  <author>FrozenSnowFox</author>
+  <packageId>FrozenSnowFox.LightweightBuildingPolymer</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <description>Adds a delicate lightweight polymer designed for building mobile bases.</description>
+</ModMetaData>

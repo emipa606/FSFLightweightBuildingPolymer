@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>FSFPolymerFloor</defName>
+    <label>Polymer Floor</label>
+    <renderPrecedence>200</renderPrecedence>
+    <description>A cheap floor made from polymer.</description>
+    <researchPrerequisites>
+      <li>FSFPolymerResearch</li>
+    </researchPrerequisites>
+    <burnedDef>FSFBurnedPolymer</burnedDef>
+    <texturePath>Terrain/Surfaces/GenericFloorTile</texturePath>
+    <color>(240,240,240)</color>
+    <statBases>
+      <Beauty>0</Beauty>
+      <Cleanliness>0.8</Cleanliness>
+      <Flammability>1.0</Flammability>
+      <WorkToBuild>20</WorkToBuild>
+    </statBases>
+    <costList>
+      <FSFPolymer>1</FSFPolymer>
+    </costList>
+    <constructEffect>ConstructMetal</constructEffect>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>FSFBurnedPolymer</defName>
+    <label>Burned Polymer Floor</label>
+    <renderPrecedence>201</renderPrecedence>
+    <description>Burned-out polymer.</description>
+    <texturePath>Terrain/Surfaces/BurnedCarpet</texturePath>
+    <edgeType>FadeRough</edgeType>
+  </TerrainDef>
+</Defs>
