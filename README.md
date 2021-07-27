@@ -15,7 +15,7 @@ This mod is discontinued and will not be updated.
 # Description
 
 
-This mod adds a new building resource called Polymer.  It&apos;s extremely lightweight, very delicate, cheap to produce and extremely fast to setup.  The idea of this material is to make it easy to setup temporary mining bases or outposts.  Normal materials are extremely heavy and take a fairly long time to build.  With Polymer you can carry all the resources you need for construction and get a base up and operating within a day.  Since its a new resource you can build everything out of it walls, chairs, beds, worktables, floors, turrets (not recommended) and more.
+This mod adds a new building resource called Polymer.  It's extremely lightweight, very delicate, cheap to produce and extremely fast to setup.  The idea of this material is to make it easy to setup temporary mining bases or outposts.  Normal materials are extremely heavy and take a fairly long time to build.  With Polymer you can carry all the resources you need for construction and get a base up and operating within a day.  Since its a new resource you can build everything out of it walls, chairs, beds, worktables, floors, turrets (not recommended) and more.
 
 To create Polymer it first needs to be researched.  It requires a Hi-tech Research Bench and for refining to be researched.  Once researched it can be crafted at the refinery for 5 Plasteel and 100 chemfuel to make 50 Polymer.  Polymer can also be rarely bought from traders but its fairly expensive.
 
@@ -36,9 +36,9 @@ Floor Cleanliness - 0.8
 # Recommended Mods
 
 
-http://steamcommunity.com/sharedfiles/filedetails/?id=708455313]Fluffy&apos;s Blueprints
+http://steamcommunity.com/sharedfiles/filedetails/?id=708455313]Fluffy's Blueprints
 
-Setting up bases repeatedly can get a bit tedious, so I suggest using Fluffy&apos;s Blueprints.  The mod will allow you to save your building setups allowing you to rapidly deploy construction orders on new locations.
+Setting up bases repeatedly can get a bit tedious, so I suggest using Fluffy's Blueprints.  The mod will allow you to save your building setups allowing you to rapidly deploy construction orders on new locations.
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1372003680]Replace Stuff
 

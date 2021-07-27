@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>5f4929ec-5b8d-4de0-8d68-f25ce3400c78</ID>
   <ModName>[FSF] Lightweight Building Polymer (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
