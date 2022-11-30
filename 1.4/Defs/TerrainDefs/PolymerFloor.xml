@@ -13,7 +13,7 @@
     <color>(240,240,240)</color>
     <statBases>
       <Beauty>0</Beauty>
-      <Cleanliness>0.8</Cleanliness>
+      <Cleanliness>0.6</Cleanliness>
       <Flammability>1.0</Flammability>
       <WorkToBuild>20</WorkToBuild>
     </statBases>
