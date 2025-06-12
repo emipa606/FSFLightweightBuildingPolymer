@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Burned Polymer Floor -->
+  <FSFBurnedPolymer.label>Burned Polymer Floor</FSFBurnedPolymer.label>
+  <!-- EN: Burned-out polymer. -->
+  <FSFBurnedPolymer.description>Burned-out polymer.</FSFBurnedPolymer.description>
+  <!-- EN: Polymer Floor -->
+  <FSFPolymerFloor.label>Polymer Floor</FSFPolymerFloor.label>
+  <!-- EN: A cheap floor made from polymer. -->
+  <FSFPolymerFloor.description>A cheap floor made from polymer.</FSFPolymerFloor.description>
+</LanguageData>
